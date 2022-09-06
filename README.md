@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jonatas Torres Alves 👋
 
-- 🔭 Atualmente procurando uma oportunidade como Dev Jr.
-- 🌱 Estudando Vue, React, TypeScript e Golang!
+- 🔭 Front End Jr na InfoBase IT.
+- 🌱 Estudando Angular e TypeScript!
 
 <br>
 <div>
